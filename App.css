@@ -1,0 +1,17 @@
+
+
+.img-avtar {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+
+body {
+  /* background-image: linear-gradient(180deg, #D3CCE3, #E9E4F0) !important;
+   */
+   background-color: #E5E1DA !important;
+  color: black !important;
+}
